@@ -37,10 +37,10 @@
 
 ### Featured Projects
 
-#### [Bank Management System](https://github.com/Rohan-CSE1) *(C / C++)*
-- **Description:** A console-based banking application demonstrating core OOP principles and file processing.
-- **Key Features:** Account creation, deposit/withdrawal operations, transaction logging, and data persistence using file I/O.
-- **Tech Stack:** C++, File Handling, Data Structures.
+#### [Bank Management System](https://github.com/Rohan-CSE1/bank-management-system) *(C)*
+- **Description:** A console-based banking application written in C demonstrating structures and array manipulations.
+- **Key Features:** Account creation, deposit/withdrawal operations, searching, and balance management.
+- **Tech Stack:** C, Data Structures, Control Flow.
 
 ---
 
